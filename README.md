@@ -147,6 +147,45 @@ Ben: İyi, o zaman bir sonraki toplantımızda ilerlemelerinizi tartışabiliriz
 
 Bu senaryoda, Beyza'nın hedeflerini belirleyip, egzersiz ve diyet programını oluşturduk. Ayrıca, her hafta birlikte takip ederek ilerlemelerini değerlendirdik. Bu süreçte, Beyza'nin sağlıklı bir şekilde kilo vermesi ve yağ oranını düşürmesi için gereken adımları attık. Ayrıca, Beyza'nin programı uygulaması sırasında herhangi bir sorusu veya endişesi olduğunda, bana danışabileceği konusunda bilgilendirdik.
 
+**Senaryo:** Seda günlük alması gereken 1600 kalori için bir diyet listesi hazırlamak istiyor. 
+
+Kahvaltı:
+
+1 dilim tam buğday ekmeği (70 kalori)
+1 adet haşlanmış yumurta (70 kalori)
+1/2 avokado dilimleri (75 kalori)
+1 küçük domates dilimleri (10 kalori)
+Toplam kalori: 225 kalori
+Ara Öğün:
+
+1 adet orta boy elma (ortalama 95 kalori)
+Toplam kalori: 95 kalori
+Öğle:
+
+1 porsiyon tavuk göğsü (200 gr) (200 kalori)
+1 porsiyon sebzeli bulgur pilavı (150 gr) (200 kalori)
+1 bardak ayran (150 ml) (70 kalori)
+Toplam kalori: 470 kalori
+Ara Öğün:
+
+1 adet orta boy muz (ortalama 105 kalori)
+1 avuç ceviz (ortalama 180 kalori)
+Toplam kalori: 285 kalori
+Akşam:
+
+1 porsiyon ızgara somon (200 gr) (350 kalori)
+1 porsiyon zeytinyağlı sebzeler (150 gr) (100 kalori)
+1 dilim tam buğday ekmeği (70 kalori)
+Toplam kalori: 520 kalori
+Ara Öğün:
+
+1 porsiyon light yoğurt (125 gr) (50 kalori)
+1 avuç çilek (ortalama 50 kalori)
+Toplam kalori: 100 kalori
+Toplam günlük kalori: 1595 kalori
+
+>**Not:** Yukarıdaki kalori miktarları yaklaşık değerlerdir ve değişkenlik gösterebilir. Seda'nın günlük kalori ihtiyacı, yaşına, boyuna, kilosuna ve aktivite seviyesine göre değişiklik gösterebilir. Bu nedenle, özellikle kilo vermek veya almak isteyenlerin, bir diyetisyenle çalışmaları önerilir.
+
 >Benim olarak, yaşam koçu olarak görevim, bireylerin hedeflerine ulaşmaları için onlara rehberlik etmek ve destek sağlamaktır. Her insanın hedefleri ve ihtiyaçları farklıdır, bu nedenle her birey için özel bir program oluşturmak önemlidir. Amacımız, sağlıklı bir yaşam tarzına geçiş yapmalarını sağlamak ve hedeflerine ulaşmalarına yardımcı olmaktır.
 
 Umarım bu yönergeler yardımcı olmuştur! İsterseniz şimdi bir soru sormaya başlayabilirsiniz.
