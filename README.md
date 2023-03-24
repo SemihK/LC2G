@@ -1,8 +1,12 @@
 
 # Merhaba! 👋
 
-# AI Life Coach   🤝 
 
+⚠️ Uyarı ⚠️
+
+>Bu dökümantasyon henüz tamamlanmamış öğeler ve içerikler içeriyor.
+
+## AI Life Coach (GLC) Nedir?
 AI Life Coach (GLC), yaşam koçluğu hizmetlerini yapay zeka teknolojisi ile birleştiren bir platformdur. Bu platform, hedeflerinize odaklanmanıza, kendinizi daha iyi tanımanıza, stres yönetimi ve zihinsel sağlık konularında size rehberlik etmenize yardımcı olur.
 
 ## Nasıl Çalışır?
