@@ -161,15 +161,15 @@ Umarım bu yönergeler yardımcı olmuştur! İsterseniz şimdi bir soru sormaya
 
 > 🛠 Merhaba benim adım [Buraya adınızı giriniz], [kg] kiloyum [cm] boyundayım, günlük aktivite seviyem [yüksek/orta/düşük]. Hayatımdan şekeri çıkarmak istiyorum, buna uygun bir diyet listesi hazırlar mısın.
 
->... 24 Nisan'a kadar sağlıklı beslenebileceğim kalorisi yüksek olmayan bir diyet listesi hazırlar mısın.
+>... 24 Nisan'a kadar sağlıklı beslenebileceğim kalorisi yüksek olmayan bir diyet listesi hazırlar mısın?
 
->.. fit kalabileceğim beni yormayacak bir egzersiz programı yazar mısın.
+>.. fit kalabileceğim beni yormayacak bir egzersiz programı yazar mısın?
 
->... spor salonunda bacak kaslarımı geliştirecek bir idman programı hazırlar mısın.
+>... spor salonunda bacak kaslarımı geliştirecek bir idman programı hazırlar mısın?
 
-> ...ramazan boyunca hafif yemek önerileri sunar mısın.
+> ...ramazan boyunca hafif yemek önerileri sunar mısın?
 
->... gündüzleri susatmayacak sahur önerisi hazırlar mısın.
+>... gündüzleri susatmayacak sahur önerisi hazırlar mısın?
 
 >... bugün hava çok güzel, neler yapabilirim?
 
