@@ -7,6 +7,9 @@
 
 [![AvGPT - GPT](https://img.shields.io/badge/AvGPT-GPT-2ea44f)](https://github.com/SemihK/AvGPT)
 
+>Bu dökümanı Türkçe olarak okuyabilirsin [🇹🇷](https://github.com/SemihK/LC2G/blob/main/README.md)
+
+
 ## What is AI Life Coach (GLC)?
 
 AI Life Coach (GLC) is a platform that combines life coaching services with artificial intelligence technology. This platform helps you focus on your goals, get to know yourself better, and guides you in stress management and mental health issues.
