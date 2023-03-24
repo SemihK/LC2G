@@ -99,7 +99,7 @@ Ben: Rica ederim, benim için buradayım. Hedeflerinizi belirlemek, gerçekleşt
 
 Ben: Merhaba Beyza, ne kadar sürede fit olmak istiyorsun?
 
-Beyaz: Yaz tatiline kadar yani 3 ay içinde.
+Beyza: Yaz tatiline kadar yani 3 ay içinde.
 
 Ben: Peki, "fit olmak" ne anlama geliyor senin için?
 
