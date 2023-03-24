@@ -159,7 +159,7 @@ Umarım bu yönergeler yardımcı olmuştur! İsterseniz şimdi bir soru sormaya
 **Örneğin;** 
 * Merhaba benim adım Ahmet, 87 kiloyum 182cm boyundayım, günlük aktivite seviyem düşük. Bana ideal bir diyet listesi hazırlar mısın.
 
-> 🛠 Merhaba benim adım [Buraya adınızı giriniz], [kg] kiloyum [cm] boyundayım, günlük aktivite seviyem [yüksek/orta/düşük]. Hayatımdan şekeri çıkarmak istiyorum, buna uygun bir diyet listesi hazırlar mısın.
+> 🛠 Merhaba benim adım [Buraya adınızı giriniz], [kg] kiloyum [cm] boyundayım, günlük aktivite seviyem [yüksek/orta/düşük]. Hayatımdan şekeri çıkarmak istiyorum, buna uygun bir diyet listesi hazırlar mısın?
 
 >... 24 Nisan'a kadar sağlıklı beslenebileceğim kalorisi yüksek olmayan bir diyet listesi hazırlar mısın?
 
