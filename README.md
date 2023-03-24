@@ -93,59 +93,59 @@ Ben: Rica ederim, benim için buradayım. Hedeflerinizi belirlemek, gerçekleşt
 >**ChatGPT** olarak bu senaryoda, Ayşe ile birlikte kariyer hedeflerini belirleyen ve bir eylem planı oluşturan bir yaşam koçu rolü üstlendim. Ayşe'nin kariyer hedefleri belirsizdi ve ona doğru yönlendirmelerde bulunarak, hedeflerini belirleyip planlamasına yardımcı oldum. Bu senaryo, yaşam koçu çalışmalarında tipik bir süreci göstermektedir.
 
 
-**Senaryo:** Simge, fit ve sağlıklı bir yaşam tarzına geçmek istiyor. Bunu başarmak için belirli bir sürede hedefler belirlememiz ve bir eylem planı oluşturmamız gerekiyor. İşte Simge için örnek bir program:
+**Senaryo:** Beyza, fit ve sağlıklı bir yaşam tarzına geçmek istiyor. Bunu başarmak için belirli bir sürede hedefler belirlememiz ve bir eylem planı oluşturmamız gerekiyor. İşte Beyza için örnek bir program:
  
  1.  Hedeflerin Belirlenmesi
 
-Ben: Merhaba Simge, ne kadar sürede fit olmak istiyorsun?
+Ben: Merhaba Beyza, ne kadar sürede fit olmak istiyorsun?
 
-Simge: Yaz tatiline kadar yani 3 ay içinde.
+Beyaz: Yaz tatiline kadar yani 3 ay içinde.
 
 Ben: Peki, "fit olmak" ne anlama geliyor senin için?
 
-Simge: Daha sıkı bir vücuda sahip olmak istiyorum ve daha fazla enerjiye ihtiyacım var.
+Beyza: Daha sıkı bir vücuda sahip olmak istiyorum ve daha fazla enerjiye ihtiyacım var.
 
 Ben: Anladım. Kaç kiloya inmek istiyorsun?
 
-Simge: Ağırlığımı değiştirmek istemiyorum ama yağ oranımı düşürmek istiyorum. Şu anda %25 yağ oranım var, %20'ye düşürmek istiyorum.
+Beyza: Ağırlığımı değiştirmek istemiyorum ama yağ oranımı düşürmek istiyorum. Şu anda %25 yağ oranım var, %20'ye düşürmek istiyorum.
 
 2.  Mevcut Durumun Değerlendirilmesi
 
 Ben: Peki, şu an ne kadar spor yapıyorsun?
 
-Simge: Hiç yapmıyorum, ama yürüyüşe çıkmak ve yoga yapmak istiyorum.
+Beyza: Hiç yapmıyorum, ama yürüyüşe çıkmak ve yoga yapmak istiyorum.
 
 Ben: Harika, bu iyi bir başlangıç olabilir. Şu anki beslenme alışkanlıkların neler?
 
-Simge: Fast food ve abur cubur tüketimim çok fazla, ancak sağlıklı bir diyet uygulamaya hazırım.
+Beyza: Fast food ve abur cubur tüketimim çok fazla, ancak sağlıklı bir diyet uygulamaya hazırım.
 
 3.  Programın Oluşturulması
 
 Ben: Öncelikle, spor ve beslenme alışkanlıklarınızı değiştirmeniz gerekiyor. Günde 30-45 dakikalık egzersiz yapmanız ve düzenli olarak sağlıklı yiyecekler tüketmeniz gerekiyor. Spor programınızı haftada en az 3 kez uygulamanızı öneririm. Bunlar arasında yürüyüş, yoga veya fitness egzersizleri olabilir.
 
-Simge: Tamam, bunları yapabilirim.
+Beyza: Tamam, bunları yapabilirim.
 
 Ben: Ayrıca, fast food ve abur cubur tüketimini azaltmanız gerekiyor. Daha fazla sebze, meyve ve tam tahıl tüketmeniz gerekiyor. Ayrıca, protein kaynaklarınızı da artırmalısınız.
 
-Simge: Anladım, yapabilirim.
+Beyza: Anladım, yapabilirim.
 
 4.  Programın Uygulanması
 
 Ben: İşe yarama durumunu takip etmek için haftalık randevular ayarlayabiliriz. Bu şekilde, diyetinizi ve egzersiz programınızı takip edebilirim. Ayrıca, sorularınız veya endişeleriniz varsa, bana her zaman danışabilirsiniz.
 
-Simge: Tamam, harika olur.
+Beyza: Tamam, harika olur.
 
 5.  Takip ve Değerlendirme
 
 Ben: Peki, ilk randevumuz bir hafta sonra uygun mu?
 
-Simge: Evet, olabilir.
+Beyza: Evet, olabilir.
 
 Ben: İyi, o zaman bir sonraki toplantımızda ilerlemelerinizi tartışabiliriz.
 
 6.  Sonuç
 
-Bu senaryoda, Simge'nin hedeflerini belirleyip, egzersiz ve diyet programını oluşturduk. Ayrıca, her hafta birlikte takip ederek ilerlemelerini değerlendirdik. Bu süreçte, Simge'nin sağlıklı bir şekilde kilo vermesi ve yağ oranını düşürmesi için gereken adımları attık. Ayrıca, Simge'nin programı uygulaması sırasında herhangi bir sorusu veya endişesi olduğunda, bana danışabileceği konusunda bilgilendirdik.
+Bu senaryoda, Beyza'nın hedeflerini belirleyip, egzersiz ve diyet programını oluşturduk. Ayrıca, her hafta birlikte takip ederek ilerlemelerini değerlendirdik. Bu süreçte, Beyza'nin sağlıklı bir şekilde kilo vermesi ve yağ oranını düşürmesi için gereken adımları attık. Ayrıca, Beyza'nin programı uygulaması sırasında herhangi bir sorusu veya endişesi olduğunda, bana danışabileceği konusunda bilgilendirdik.
 
 >Benim olarak, yaşam koçu olarak görevim, bireylerin hedeflerine ulaşmaları için onlara rehberlik etmek ve destek sağlamaktır. Her insanın hedefleri ve ihtiyaçları farklıdır, bu nedenle her birey için özel bir program oluşturmak önemlidir. Amacımız, sağlıklı bir yaşam tarzına geçiş yapmalarını sağlamak ve hedeflerine ulaşmalarına yardımcı olmaktır.
 
